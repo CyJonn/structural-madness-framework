@@ -52,3 +52,14 @@ Open, provisional, and intentionally incomplete.
 ## Read the framework
 
 📄 [Structural_Madness_Framework_v1.pdf](./Structural_Madness_Framework_v1.pdf)
+
+## Appendices
+
+- Appendix A — Working Definitions  
+  (formal + spoken versions)  
+  → `/appendices/Appendix_A_Definitions.pdf`
+
+- Appendix B — Examples, Misuses, Failure Modes  
+  → `/appendices/Appendix_B_Examples_Misuses_Failures.md`
+
+- Appendix C — Live Calibration Log (optional, evolving)
